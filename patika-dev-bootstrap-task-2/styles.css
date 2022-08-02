@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.home-content {
+  text-align: center;
+}
+
+.home-title {
+  color: rgb(184, 42, 42);
+}
+
+.products-title {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+.about {
+  text-align: center;
+}

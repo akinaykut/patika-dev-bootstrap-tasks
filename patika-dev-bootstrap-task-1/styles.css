@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+}
+
+.first {
+  height: 400px;
+  background-color: #f0f0f0;
+}
+
+.second {
+  height: 400px;
+  background-color: bisque;
+}
+
+.third {
+  height: 200px;
+  background-color: rgba(216, 88, 88, 0.926);
+}
+
+.four {
+  height: 200px;
+  background-color: burlywood;
+}
+.four {
+  height: 200px;
+  background-color: rgba(208, 163, 104, 0.718);
+}
