@@ -10,6 +10,14 @@ This is a simple example, uses bootsrap.
 
 Simple HTML Instagram clone made with Bootstrap.
 
-![Picture from project](/images/instagram-clone.PNG);
+![Picture from project](/images/instagram-clone.PNG)
+
+## Linkedin Clone
+
+Simple HTML Linkedin clone made with Bootsrap.
+
+![Picture from project](/images/linkedin-clone.PNG)
+
+---
 
 [Patikadev](https://patikadev.com)
